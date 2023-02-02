@@ -1,0 +1,5 @@
+myapp/static/media/*
+*.sqlite3
+*.pyc
+.idea/
+*/__pycache__/*
